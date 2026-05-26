@@ -1,0 +1,16 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+
+dist/
+client/dist/
+
+.env
+.env.*
+
+*.log
+
+*.db
+*.sqlite
+*.sqlite3
+server/shop.db
